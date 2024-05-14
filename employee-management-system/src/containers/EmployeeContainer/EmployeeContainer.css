@@ -1,0 +1,30 @@
+/*
+    ---------------------------------------------------
+    Author      : Shree Dhar Acharya
+    StudentId   : 8899288
+    Course      : Advanced Full Stack Programming
+    Application : PulseCrew-Employee Management System
+    ----------------------------------------------------
+*/
+
+.tableHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.labelStyle{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.selectStyle {
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    cursor: pointer;
+    outline: none;
+  }

@@ -1,0 +1,48 @@
+/*
+    ---------------------------------------------------
+    Author      : Shree Dhar Acharya
+    StudentId   : 8899288
+    Course      : Advanced Full Stack Programming
+    Application : PulseCrew-Employee Management System
+    ----------------------------------------------------
+*/
+
+.EmployeeTable {
+    font-family: Arial, sans-serif;
+    
+}
+
+.EmployeeTable table {
+    background-color: rgb(228, 241, 247);
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.EmployeeTable th,
+.EmployeeTable td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.EmployeeTable th {
+    background-color: rgb(161, 215, 238);
+    font-weight: bold;
+    color: #333;
+}
+
+.EmployeeTable tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+
+.EmployeeTable {
+    margin: 100px auto;
+    padding: 50px;
+    width: 90%;
+    border-radius: 10px;
+    background-color: rgb(228, 241, 247);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
